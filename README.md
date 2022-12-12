@@ -85,7 +85,7 @@ const job = new Job("10s", "100s", (): Promise<string> => {
 - priority queue : just to keep track of the order of each task
 
 ## Example snippets from a run:
-![Alt text](../../../Desktop/Screen%20Shot%202022-12-12%20at%2017.40.21.png)
+<img width="1680" alt="Screen Shot 2022-12-12 at 23 30 36" src="https://user-images.githubusercontent.com/11944690/207158763-9da462af-8f36-43fd-84f4-b2ffbeecd7fe.png">
 
 
 ## Future Enhancements
