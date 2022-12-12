@@ -1,0 +1,7 @@
+{
+    "extension": ["test.js"],
+    "require": ["ts-node/register"],
+    "recursive": true,
+    "timeout": 50000,
+    "exit": true
+  }
